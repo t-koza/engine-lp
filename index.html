@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>LINE追客自動化サービス｜合同会社ENGINE</title>
+<style>
+:root{
+  --green:#008a45;--green2:#00a85a;--light:#eefaf4;--dark:#111827;
+  --gray:#667085;--border:#dfe7e2;--orange:#ff8a00;
+}
+*{box-sizing:border-box}
+body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Noto Sans JP","Yu Gothic",Meiryo,sans-serif;color:var(--dark);background:#fff;line-height:1.75}
+a{text-decoration:none;color:inherit}.container{width:min(1120px,92%);margin:0 auto}
+.btn{display:inline-flex;align-items:center;justify-content:center;padding:16px 28px;border-radius:999px;font-weight:800;background:linear-gradient(135deg,var(--green),var(--green2));color:#fff;box-shadow:0 10px 24px rgba(0,138,69,.25)}
+.btn.orange{background:linear-gradient(135deg,#ff9b21,#ff6b00)}.badge{display:inline-block;padding:8px 16px;border-radius:999px;background:var(--light);color:var(--green);font-weight:800;border:1px solid #bfe8d3}
+header{position:sticky;top:0;z-index:10;background:rgba(255,255,255,.9);backdrop-filter:blur(10px);border-bottom:1px solid var(--border)}
+.nav{height:68px;display:flex;align-items:center;justify-content:space-between}.logo{display:flex;gap:10px;align-items:center;font-weight:900;font-size:24px}.mark{width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--green),#5ccf94);display:grid;place-items:center;color:#fff;font-weight:900}
+.hero{padding:72px 0 64px;background:linear-gradient(135deg,#fff 0%,#f1fbf6 100%);overflow:hidden}.hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center}
+h1{font-size:clamp(38px,5vw,68px);line-height:1.15;margin:18px 0}.lead{font-size:22px;font-weight:700}.hero-points{display:flex;flex-wrap:wrap;gap:12px;margin:26px 0}.point{padding:10px 14px;border:1px solid #bfe8d3;background:#fff;border-radius:999px;color:var(--green);font-weight:800}
+.phone{width:min(380px,100%);margin:auto;background:#111;border-radius:42px;padding:14px;box-shadow:0 30px 60px rgba(0,0,0,.22);transform:rotate(3deg)}.screen{background:#dcebff;border-radius:32px;overflow:hidden;padding:22px}.chat{background:#fff;border-radius:16px;padding:12px;margin:12px 0;font-weight:700}.chat.green{background:#91e881;margin-left:42px}.menu{display:grid;grid-template-columns:repeat(3,1fr);gap:8px;margin-top:20px}.menu div{background:#fff;border-radius:10px;padding:14px 6px;text-align:center;font-size:13px;font-weight:800;color:var(--green)}
+.stats{display:grid;grid-template-columns:repeat(3,1fr);gap:18px;margin-top:28px}.stat{background:#fff;border:1px solid var(--border);border-radius:18px;padding:22px;text-align:center}.stat strong{display:block;font-size:34px;color:var(--green)}
+section{padding:76px 0}.section-title{text-align:center;margin-bottom:36px}.section-title h2{font-size:clamp(30px,4vw,46px);line-height:1.25;margin:8px 0}.cards{display:grid;grid-template-columns:repeat(5,1fr);gap:16px}.card{background:#fff;border:1px solid var(--border);border-radius:20px;padding:24px;text-align:center;box-shadow:0 8px 24px rgba(0,0,0,.04)}.icon{width:58px;height:58px;margin:0 auto 14px;border-radius:18px;background:var(--light);display:grid;place-items:center;color:var(--green);font-size:24px;font-weight:900}
+.flow{background:#f8fcfa;border:1px solid var(--border);border-radius:24px;padding:30px}.flow-row{display:grid;grid-template-columns:repeat(6,1fr);gap:16px;align-items:stretch}.flow-item{text-align:center;position:relative}.flow-item:not(:last-child)::after{content:"→";position:absolute;right:-14px;top:34px;color:var(--green);font-size:24px;font-weight:900}
+.features{display:grid;grid-template-columns:repeat(3,1fr);gap:22px}.feature{border:1px solid #bfe8d3;border-radius:22px;padding:28px;background:#fff}.num{font-size:28px;color:var(--green);font-weight:900}
+.cta{background:linear-gradient(135deg,var(--green),#006b36);color:#fff;padding:70px 0}.cta-grid{display:grid;grid-template-columns:1fr 1fr;gap:36px;align-items:center}.form{background:#fff;border-radius:24px;padding:28px;color:var(--dark)}input,textarea{width:100%;padding:14px;border-radius:12px;border:1px solid var(--border);margin-bottom:12px;font-size:16px}.footer{padding:28px 0;background:#0b1f14;color:#fff}.footer .container{display:flex;justify-content:space-between;gap:20px;flex-wrap:wrap}
+@media(max-width:900px){.hero-grid,.cta-grid{grid-template-columns:1fr}.cards{grid-template-columns:repeat(2,1fr)}.features,.stats{grid-template-columns:1fr}.flow-row{grid-template-columns:1fr}.flow-item:not(:last-child)::after{display:none}h1{font-size:42px}}
+</style>
+</head>
+<body>
+<header><div class="container nav"><div class="logo"><div class="mark">E</div>ENGINE</div><a class="btn" href="#contact">無料相談</a></div></header>
+<main>
+<section class="hero"><div class="container hero-grid"><div>
+<span class="badge">不動産会社向けの反響応を自動化</span>
+<h1><span style="color:var(--green)">LINE追客</span><br>自動化サービス</h1>
+<p class="lead">反響を“来店・申込み・成約”につなげる仕組みを構築します。</p>
+<div class="hero-points"><span class="point">対応漏れゼロ</span><span class="point">24時間自動対応</span><span class="point">来店率・成約率UP</span></div>
+<a href="#contact" class="btn orange">無料で相談してみる</a>
+<div class="stats"><div class="stat"><strong>80%</strong>対応工数削減</div><div class="stat"><strong>2.3倍</strong>来店率UP</div><div class="stat"><strong>1.8倍</strong>成約率UP</div></div>
+</div><div class="phone"><div class="screen"><div style="font-weight:900;margin-bottom:16px">公式LINE</div><div class="chat">お問い合わせありがとうございます！<br>ご希望の内容を教えてください😊</div><div class="chat green">来店予約をしたいです！</div><div class="chat">かしこまりました！<br>ご希望日時を選択してください📅</div><div class="menu"><div>来店予約</div><div>物件を探す</div><div>よくある質問</div><div>問合せ</div><div>電話する</div><div>メニュー</div></div></div></div></div></section>
+<section><div class="container"><div class="section-title"><h2>こんなお悩みはありませんか？</h2></div><div class="cards"><div class="card"><div class="icon">☎</div><h3>反響後の追客が続かない</h3></div><div class="card"><div class="icon">LINE</div><h3>LINEが活用できていない</h3></div><div class="card"><div class="icon">↗</div><h3>来店につながらない</h3></div><div class="card"><div class="icon">👤</div><h3>対応が属人化している</h3></div><div class="card"><div class="icon">🕒</div><h3>営業時間外の機会損失が多い</h3></div></div></div></section>
+<section style="background:#f8fcfa"><div class="container"><div class="section-title"><h2><span style="color:var(--green)">LINE追客自動化サービス</span>で解決！</h2></div><div class="flow"><div class="flow-row"><div class="flow-item"><div class="icon">💻</div><b>反響獲得</b><p>ポータル・広告から問い合わせ</p></div><div class="flow-item"><div class="icon">LINE</div><b>LINE誘導</b><p>自動で友だち追加へ誘導</p></div><div class="flow-item"><div class="icon">📋</div><b>ヒアリング</b><p>条件・希望を自動取得</p></div><div class="flow-item"><div class="icon">📅</div><b>来店予約</b><p>カレンダー連携で予約</p></div><div class="flow-item"><div class="icon">🔔</div><b>リマインド</b><p>前日・当日に自動通知</p></div><div class="flow-item"><div class="icon">🤝</div><b>成約へ</b><p>来店・申込みにつなげる</p></div></div></div></div></section>
+<section><div class="container"><div class="section-title"><h2>サービスの主な機能</h2></div><div class="cards"><div class="card"><div class="icon">💬</div><h3>自動メッセージ配信</h3><p>シナリオに沿って最適なメッセージを配信。</p></div><div class="card"><div class="icon">📝</div><h3>フォーム・ヒアリング</h3><p>来店前に必要情報を効率的に収集。</p></div><div class="card"><div class="icon">📆</div><h3>予約管理</h3><p>来店・内見予約を自動受付。</p></div><div class="card"><div class="icon">🔔</div><h3>リマインド配信</h3><p>ドタキャンや無断キャンセルを防止。</p></div><div class="card"><div class="icon">📣</div><h3>掘り起こし配信</h3><p>過去反響へ再アプローチ。</p></div></div></div></section>
+<section style="background:#f8fcfa"><div class="container"><div class="section-title"><h2>選ばれる3つの理由</h2></div><div class="features"><div class="feature"><div class="num">01</div><h3>夜間 × 自動対応</h3><p>24時間自動対応し、営業時間外の機会損失を防ぎます。</p></div><div class="feature"><div class="num">02</div><h3>申込み情報の即取得</h3><p>自動ヒアリングで必要情報をすぐに取得可能。</p></div><div class="feature"><div class="num">03</div><h3>イタンジ / スマート申込と連携</h3><p>既存の申込みフローに合わせて、業務を効率化します。</p></div></div></div></section>
+<section id="contact" class="cta"><div class="container cta-grid"><div><h2 style="font-size:42px;line-height:1.3">まずは無料で<br>ご相談ください</h2><p>貴社の課題に合わせて、最適なLINE追客フローをご提案します。</p><ul><li>初期設定・シナリオ設計も対応</li><li>導入後の運用改善までサポート</li><li>夜間・自動対応の設計も可能</li></ul></div><form class="form"><h3>無料相談フォーム</h3><input placeholder="会社名"><input placeholder="お名前"><input placeholder="メールアドレス"><input placeholder="電話番号"><textarea rows="4" placeholder="ご相談内容"></textarea><button type="button" class="btn orange" style="width:100%;border:none;cursor:pointer">無料で相談してみる</button></form></div></section>
+</main>
+<footer class="footer"><div class="container"><div><b>ENGINE</b>　合同会社ENGINE</div><div>info@engine-llc.co.jp / 東京都文京区</div></div></footer>
+</body>
+</html>
