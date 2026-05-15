@@ -1,0 +1,22 @@
+{
+  "name": "engine-line-bot",
+  "version": "0.1.0",
+  "private": true,
+  "description": "公式LINE上で内見の日程調整と申込み後の追客を自走するAIエージェント (OpenAI API)",
+  "type": "module",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "simulate": "node src/simulate.js"
+  },
+  "dependencies": {
+    "@line/bot-sdk": "^9.5.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "openai": "^4.73.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
