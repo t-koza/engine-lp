@@ -198,6 +198,11 @@ export async function executeTool(name, args, ctx) {
         property: args.property_keyword,
       }));
       store.setCandidates(userId, candidates);
+      store.pushUi(userId, {
+        type: 'slots_quick_reply',
+        candidates,
+        property: args.property_keyword,
+      });
       return { candidates };
     }
 
@@ -218,6 +223,7 @@ export async function executeTool(name, args, ctx) {
         agent_phone: process.env.SHOP_AGENT_PHONE || '',
       };
       store.addViewing(userId, viewing);
+      store.pushUi(userId, { type: 'viewing_card', viewing });
       return { ok: true, viewing };
     }
 
@@ -227,6 +233,7 @@ export async function executeTool(name, args, ctx) {
       vw.date = args.new_date;
       vw.time = args.new_time;
       vw.status = 'rescheduled';
+      store.pushUi(userId, { type: 'viewing_card', viewing: vw });
       return { ok: true, viewing: vw };
     }
 
@@ -258,7 +265,9 @@ export async function executeTool(name, args, ctx) {
         const cur = store.getState(userId).documents[doc];
         if (!cur) store.setDocument(userId, doc, 'requested');
       }
-      return { ok: true, requested: required, deadline: args.deadline || null };
+      const deadline = args.deadline || null;
+      store.pushUi(userId, { type: 'documents_card', requested: required, deadline });
+      return { ok: true, requested: required, deadline };
     }
 
     case 'mark_document_received': {

@@ -3,6 +3,8 @@ import express from 'express';
 import line from '@line/bot-sdk';
 import { lineConfig, lineClient, notifyEscalation } from './line.js';
 import { runAgent } from './agent.js';
+import { store } from './store.js';
+import { buildLineMessages, buildWelcomeMessage } from './messages.js';
 
 const app = express();
 const PORT = Number(process.env.PORT || 3000);
@@ -22,13 +24,7 @@ app.post('/webhook', line.middleware(lineConfig), async (req, res) => {
 
 async function handleEvent(event) {
   if (event.type === 'follow') {
-    return lineClient.replyMessage(event.replyToken, {
-      type: 'text',
-      text:
-        '友だち追加ありがとうございます！\n' +
-        '物件の内見予約や、申込み後のご相談をこちらで承ります。\n' +
-        'ご希望のエリアやお部屋の条件を教えてください😊',
-    });
+    return lineClient.replyMessage(event.replyToken, buildWelcomeMessage());
   }
 
   if (event.type !== 'message' || event.message.type !== 'text') {
@@ -47,7 +43,9 @@ async function handleEvent(event) {
 
   try {
     const reply = await runAgent({ userId, userText, notifyEscalation });
-    await lineClient.replyMessage(event.replyToken, { type: 'text', text: reply });
+    const uiHints = store.drainUi(userId);
+    const messages = buildLineMessages(reply, uiHints);
+    await lineClient.replyMessage(event.replyToken, messages);
   } catch (err) {
     console.error('[agent error]', err);
     await lineClient.replyMessage(event.replyToken, {
@@ -73,7 +71,9 @@ app.post('/simulate', async (req, res) => {
       userText: text,
       notifyEscalation: async (p) => console.log('[escalation:simulate]', p),
     });
-    res.json({ reply });
+    const uiHints = store.drainUi(userId);
+    const messages = buildLineMessages(reply, uiHints);
+    res.json({ reply, messages, uiHints });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

@@ -15,6 +15,7 @@ function ensure(userId) {
       application: null, // 申込み情報
       documents: {},     // 書類提出状況 { 本人確認書類: 'received', ... }
       escalated: false,
+      uiQueue: [],       // 次のLINE応答に添付したいUIヒント（quick reply / flex 等）
     });
   }
   return users.get(userId);
@@ -71,5 +72,14 @@ export const store = {
   },
   isEscalated(userId) {
     return ensure(userId).escalated;
+  },
+  pushUi(userId, hint) {
+    ensure(userId).uiQueue.push(hint);
+  },
+  drainUi(userId) {
+    const s = ensure(userId);
+    const q = s.uiQueue;
+    s.uiQueue = [];
+    return q;
   },
 };
