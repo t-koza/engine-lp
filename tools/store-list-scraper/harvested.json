@@ -295,5 +295,18 @@
   {"company":"リブマックス","store_name":"千葉店","prefecture":"千葉県","store_url":"https://www.livemax.net/livemax-store-list/59657/"},
   {"company":"リブマックス","store_name":"新都心店","prefecture":"埼玉県","store_url":"https://www.livemax.net/livemax-store-list/59646/"},
   {"company":"リブマックス","store_name":"日本橋茅場町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59755/"},
-  {"company":"リブマックス","store_name":"FC浜松町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/hamamatsucho/","note":"FC店"}
+  {"company":"リブマックス","store_name":"FC浜松町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/hamamatsucho/","note":"FC店"},
+
+  {"company":"ハウスコム","store_name":"王子店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/oji-hc/"},
+  {"company":"ハウスコム","store_name":"池袋西口店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/ikebukuro-hc/"},
+  {"company":"ハウスコム","store_name":"赤羽店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/akabane-hc/"},
+  {"company":"ハウスコム","store_name":"高田馬場店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/takadanobaba-hc/"},
+  {"company":"ハウスコム","store_name":"渋谷店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/shibuya-hc/"},
+
+  {"company":"エイブル","store_name":"大橋店","prefecture":"福岡県","store_url":"https://shop.able.co.jp/000000952/"},
+  {"company":"エイブル","store_name":"南福岡店","prefecture":"福岡県","store_url":"https://shop.able.co.jp/000000955/"},
+
+  {"company":"アエラスグループ","store_name":"津田沼店","prefecture":"千葉県","store_url":"https://www.aeras-group.jp/shop/aeras-tsudanuma/"},
+
+  {"company":"ミニミニ","store_name":"西船橋店","prefecture":"千葉県","store_url":"https://minimini.jp/shop/10012/nishifunabashi/"}
 ]
