@@ -246,5 +246,33 @@
 
   {"company":"ミニミニ","store_name":"関内店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/kannai/"},
   {"company":"ミニミニ","store_name":"上大岡店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/kamiooka/"},
-  {"company":"ミニミニ","store_name":"名古屋店","prefecture":"愛知県","store_url":"https://minimini.jp/shop/10010/nagoya/"}
+  {"company":"ミニミニ","store_name":"名古屋店","prefecture":"愛知県","store_url":"https://minimini.jp/shop/10010/nagoya/"},
+  {"company":"ミニミニ","store_name":"浦和店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/urawa/"},
+  {"company":"ミニミニ","store_name":"所沢店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/tokorozawa/"},
+  {"company":"ミニミニ","store_name":"大宮西口店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/omiyanishiguchi/"},
+
+  {"company":"CLCコーポレーション","store_name":"浅草店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_asakusa.html"},
+  {"company":"CLCコーポレーション","store_name":"綾瀬店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_ayase.html"},
+  {"company":"CLCコーポレーション","store_name":"池袋店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_ikebukuro.html"},
+  {"company":"CLCコーポレーション","store_name":"西葛西店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_nishikasai.html"},
+  {"company":"CLCコーポレーション","store_name":"川崎店","prefecture":"神奈川県","store_url":"https://clcnetwork.co.jp/shop_kawasaki.html"},
+  {"company":"CLCコーポレーション","store_name":"横浜店","prefecture":"神奈川県","store_url":"https://clcnetwork.co.jp/shop_yokohama.html"},
+  {"company":"CLCコーポレーション","store_name":"西船橋店","prefecture":"千葉県","store_url":"https://clcnetwork.co.jp/shop_nishifuna.html"},
+
+  {"company":"エイブル","store_name":"栄店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000202/"},
+  {"company":"エイブル","store_name":"金山店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000212/"},
+  {"company":"エイブル","store_name":"名古屋駅本店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000233/"},
+  {"company":"エイブル","store_name":"名古屋国際センター","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000244/"},
+  {"company":"エイブル","store_name":"広小路伏見店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000239/"},
+
+  {"company":"アパマンショップ","store_name":"浦和西口店","prefecture":"埼玉県","store_url":"https://www.apamanshop.com/shop/11002436/"},
+  {"company":"アパマンショップ","store_name":"東大宮店","prefecture":"埼玉県","store_url":"https://www.apamanshop.com/shop/11002406/"},
+  {"company":"アパマンショップ","store_name":"千葉中央店","prefecture":"千葉県","store_url":"https://www.apamanshop.com/shop/12041196/"},
+
+  {"company":"ピタットハウス","store_name":"上野昭和通り店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/uenoshowadori.html"},
+  {"company":"ピタットハウス","store_name":"門前仲町店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/monzennakacho.html"},
+  {"company":"ピタットハウス","store_name":"錦糸町店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/kinshichominamiguchi.html"},
+
+  {"company":"タウンハウジング","store_name":"武蔵小杉店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/musashi-kosugi"},
+  {"company":"タウンハウジング","store_name":"恵比寿店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/ebisu"}
 ]
