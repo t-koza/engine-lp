@@ -1,0 +1,8 @@
+# 実行で生成される成果物はコミットしない（環境制約レポートは残す）
+stores.csv
+stores.xlsx
+fetch_log.csv
+failed_companies.csv
+run_summary.md
+run.log
+_smoke*
