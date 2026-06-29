@@ -33,6 +33,7 @@ COMPANY_META = {
     "アエラスグループ": ("https://www.aeras-group.jp/", "首都圏 直営67店舗", "https://www.aeras-group.jp/recruit/"),
     "リブマックス": ("https://www.livemax.co.jp/", "全国(要確認)", "https://www.livemax.co.jp/recruit/"),
     "ルームピア(ROOMPIA)": ("https://www.roompia.jp/", "直営9+サテライト16", "https://www.ambitiondxholdings.com/recruit/"),
+    "CLCコーポレーション": ("https://www.clcnet.jp/", "東京東/神奈川/千葉(要確認)", ""),
     "CLCコーポレーション": ("https://www.clcnet.jp/", "東京東/神奈川/千葉(要確認)", "https://www.clcnet.jp/"),
 }
 
