@@ -274,5 +274,26 @@
   {"company":"ピタットハウス","store_name":"錦糸町店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/kinshichominamiguchi.html"},
 
   {"company":"タウンハウジング","store_name":"武蔵小杉店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/musashi-kosugi"},
-  {"company":"タウンハウジング","store_name":"恵比寿店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/ebisu"}
+  {"company":"タウンハウジング","store_name":"恵比寿店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/ebisu"},
+
+  {"company":"CLCコーポレーション","store_name":"北千住店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_senjyu.html"},
+
+  {"company":"アパマンショップ","store_name":"天神西通り店","prefecture":"福岡県","store_url":"https://www.apamanshop.com/shop/40049410/"},
+  {"company":"アパマンショップ","store_name":"西新店","prefecture":"福岡県","store_url":"https://www.apamanshop.com/shop/40055702/"},
+  {"company":"アパマンショップ","store_name":"国分寺店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13062310/"},
+  {"company":"アパマンショップ","store_name":"国分寺北口店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13041118/"},
+
+  {"company":"ピタットハウス","store_name":"船橋北口店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/funabashikitaguchi.html"},
+  {"company":"ピタットハウス","store_name":"船橋習志野店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/funabashinarashino.html"},
+  {"company":"ピタットハウス","store_name":"横浜西口店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/yokohamanishiguchi.html"},
+
+  {"company":"ハウスコム","store_name":"三軒茶屋店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/sangenjaya-hc/"},
+  {"company":"ハウスコム","store_name":"中野店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/nakano-hc/"},
+
+  {"company":"アエラスグループ","store_name":"川越店","prefecture":"埼玉県","store_url":"https://www.aeras-group.jp/shop/aeras-kawagoe/"},
+
+  {"company":"リブマックス","store_name":"千葉店","prefecture":"千葉県","store_url":"https://www.livemax.net/livemax-store-list/59657/"},
+  {"company":"リブマックス","store_name":"新都心店","prefecture":"埼玉県","store_url":"https://www.livemax.net/livemax-store-list/59646/"},
+  {"company":"リブマックス","store_name":"日本橋茅場町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59755/"},
+  {"company":"リブマックス","store_name":"FC浜松町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/hamamatsucho/","note":"FC店"}
 ]
