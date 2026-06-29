@@ -208,5 +208,17 @@
 
   {"company":"アパマンショップ","store_name":"横浜東口店","prefecture":"神奈川県","store_url":"https://www.apamanshop.com/shop/14053901/"},
 
-  {"company":"リブマックス","store_name":"五反田店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59753/"}
+  {"company":"リブマックス","store_name":"五反田店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59753/"},
+
+  {"company":"アエラスグループ","store_name":"ソレイユ高田馬場店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/soleil-takadanobaba/","note":"ソレイユ業態"},
+  {"company":"アエラスグループ","store_name":"ソレイユ池袋店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/soleil-ikebukuro/","note":"ソレイユ業態"},
+
+  {"company":"エイブル","store_name":"大阪国際センター","prefecture":"大阪府","store_url":"https://shop.able.co.jp/000000836/"},
+
+  {"company":"ピタットハウス","store_name":"池袋西口店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/ikebukuronishi.html"},
+  {"company":"ピタットハウス","store_name":"西葛西販売センター","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/nishikasai-hc.html"},
+
+  {"company":"ハウスコム","store_name":"上大岡店","prefecture":"神奈川県","store_url":"https://www.housecom.jp/shop/kamiooka-hc/"},
+  {"company":"ハウスコム","store_name":"浦和店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/urawa-hc/"},
+  {"company":"ハウスコム","store_name":"川口店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/kawaguchi-hc/"}
 ]
