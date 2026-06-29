@@ -48,7 +48,8 @@ def norm_url(u: str) -> str:
         return ""
     p = urlparse(u)
     path = p.path.rstrip("/")
-    return f"{p.scheme}://{p.netloc.lower()}{path}".lower()
+    q = f"?{p.query}" if p.query else ""
+    return f"{p.scheme}://{p.netloc.lower()}{path}{q}".lower()
 
 
 class Runner:
