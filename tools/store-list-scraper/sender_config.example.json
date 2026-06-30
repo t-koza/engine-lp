@@ -1,0 +1,21 @@
+{
+  "_comment": "フォーム送信の送信主情報と文面。これを sender_config.json にコピーして実値を記入。空欄不可の項目は必ず埋める。",
+  "company": "（送信主の会社名）",
+  "name_sei": "（姓）",
+  "name_mei": "（名）",
+  "kana_sei": "（セイ）",
+  "kana_mei": "（メイ）",
+  "email": "（返信を受け取るメールアドレス）",
+  "tel": "（電話番号 例: 03-1234-5678）",
+  "postal": "（郵便番号 例: 150-0001）",
+  "address": "（住所）",
+  "url": "（自社サイトURL・任意）",
+  "subject": "（件名 例: 賃貸管理業務のご提案）",
+  "message": "（本文。各店舗共通の営業文面をここに。改行可。\\n で改行。）",
+  "_options": {
+    "respect_eigyo_okotowari": true,
+    "skip_if_captcha": true,
+    "min_interval_sec": 8.0,
+    "max_per_run": 0
+  }
+}

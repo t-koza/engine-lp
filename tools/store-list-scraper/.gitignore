@@ -1,2 +1,4 @@
 __pycache__/
 *.pyc
+# 送信主情報(個人情報・文面)はコミットしない
+sender_config.json

@@ -94,6 +94,52 @@ SUUMO掲載店舗の追加収集口（会社ページ→店舗一覧）も `seed
 - `store_detail_url_regex` は検索で確認した実URLパターンに基づきますが、サイト改修で
   変わり得ます。最初の実行ログ（locator行の検出件数）で要確認。
 
+## フォーム送信（反響獲得）— `submit_forms.py`
+
+全店舗の問い合わせフォームへ営業文面を送信し反響を得るためのツール。**実送信は外向きアクション**のため、
+安全装置を多数組み込み、**既定はドライラン（送信しない）**。
+
+### 前提・流れ
+
+1. まず `run.py` を実行して `output/stores.csv`（問い合わせフォームURL列を含む）を生成。
+2. `sender_config.example.json` を `sender_config.json` にコピーし、送信主情報と営業文面を記入。
+3. **ドライラン**で全件点検（入力内容のスクショ＋ログ、送信はしない）。
+4. 内容に問題がなければ `--send` で実送信。
+
+```bash
+pip install -r requirements.txt
+python -m playwright install chromium     # 環境にプリインストール済みなら不要
+cp sender_config.example.json sender_config.json   # 編集（company/email/message必須）
+python submit_forms.py                     # ドライラン（未送信・スクショ確認）
+python submit_forms.py --send              # 実送信
+python submit_forms.py --send --limit 20   # 件数を絞って実送信
+```
+
+### 安全装置（既定で有効）
+
+- **ドライラン既定**：`--send` を付けたときだけ実送信。
+- **CAPTCHA検出時はスキップ**して「要手動」に記録（reCAPTCHA等の**回避はしない**）。
+- **「営業お断り/勧誘禁止」表示の検出**でスキップ（`respect_eigyo_okotowari`）。
+- **二重送信防止**：成功は `output/sent_log.csv` に記録、再実行時はスキップ。
+- **必須項目を自動入力できない**フォームは送信せず「要手動」に記録。
+- ホスト毎の**最小送信間隔**（既定8秒）＋低レート。
+- 全件の結果を `output/send_results.csv`、入力後画面を `output/form_shots/` に保存。
+
+### 出力
+
+| ファイル | 内容 |
+| --- | --- |
+| `output/send_results.csv` | 全件結果（sent/dryrun/skipped/failed＋理由＋入力項目） |
+| `output/sent_log.csv` | 送信済み店舗（二重送信防止キー） |
+| `output/form_shots/` | 入力後のスクリーンショット（ドライラン確認用） |
+
+### 注意（実送信前に必ず確認）
+
+- 各サイトの**利用規約**を尊重すること（営業/勧誘を禁止している先には送らない）。
+- 送信文面・送信主情報の正確性、返信先メールの受信可否を事前確認。
+- まずは `--limit` で少数を実送信し、着信・反響を確認してから全件へ広げる運用を推奨。
+- この**リスト作成環境では実行不可**（外部HTTPが全面403）。開放ネット環境で実行すること。
+
 ## テスト（ネット不要）
 
 ```bash
