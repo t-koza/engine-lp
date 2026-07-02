@@ -1,0 +1,11 @@
+stores.csv
+stores.xlsx
+fetch_log.csv
+failed_companies.csv
+run_summary.md
+run.log
+_smoke*
+# フォーム送信の生成物
+send_results.csv
+sent_log.csv
+form_shots/

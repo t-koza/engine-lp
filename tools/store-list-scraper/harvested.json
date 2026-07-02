@@ -1,0 +1,312 @@
+[
+  {"company":"エイブル","store_name":"渋谷店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000043/"},
+  {"company":"エイブル","store_name":"新宿西口店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000044/"},
+  {"company":"エイブル","store_name":"北千住店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000003/"},
+  {"company":"エイブル","store_name":"池袋東口店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000009/"},
+  {"company":"エイブル","store_name":"蒲田東口店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000099/"},
+  {"company":"エイブル","store_name":"池袋国際センター","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000353/"},
+  {"company":"エイブル","store_name":"中野店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000056/"},
+  {"company":"エイブル","store_name":"練馬店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000012/"},
+  {"company":"エイブル","store_name":"エイブルネットワーク恵比寿DX店","prefecture":"東京都","store_url":"https://shop.able.co.jp/C03000898/"},
+  {"company":"エイブル","store_name":"横浜店","prefecture":"神奈川県","store_url":"https://shop.able.co.jp/000000521/"},
+  {"company":"エイブル","store_name":"横浜国際センター","prefecture":"神奈川県","store_url":"https://shop.able.co.jp/000000580/"},
+  {"company":"エイブル","store_name":"千葉店","prefecture":"千葉県","store_url":"https://shop.able.co.jp/000000631/"},
+  {"company":"エイブル","store_name":"千葉中央店","prefecture":"千葉県","store_url":"https://shop.able.co.jp/000000614/"},
+
+  {"company":"ミニミニ","store_name":"新宿店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10013/shinjuku/"},
+  {"company":"ミニミニ","store_name":"品川店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10014/shinagawa/"},
+  {"company":"ミニミニ","store_name":"目黒店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10014/meguro/"},
+  {"company":"ミニミニ","store_name":"荻窪店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10013/ogikubo/"},
+  {"company":"ミニミニ","store_name":"練馬店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10011/nerima/"},
+  {"company":"ミニミニ","store_name":"東京駅前店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10012/tokyoekimae/"},
+  {"company":"ミニミニ","store_name":"川崎店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/kawasaki/"},
+  {"company":"ミニミニ","store_name":"センター南店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/center-minami/"},
+  {"company":"ミニミニ","store_name":"FCJR大阪駅前店","prefecture":"大阪府","store_url":"https://minimini.jp/shop/50765076/fc-jrosakaekimae/","note":"FC店"},
+
+  {"company":"リブマックス","store_name":"新宿店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59750/"},
+  {"company":"リブマックス","store_name":"銀座店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59650/"},
+  {"company":"リブマックス","store_name":"神田店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59725/"},
+  {"company":"リブマックス","store_name":"東京駅前店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/94218/"},
+  {"company":"リブマックス","store_name":"池袋店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59751/"},
+  {"company":"リブマックス","store_name":"渋谷店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59748/"},
+  {"company":"リブマックス","store_name":"横浜駅前店","prefecture":"神奈川県","store_url":"https://www.livemax.net/livemax-store-list/59736/"},
+  {"company":"リブマックス","store_name":"梅田店","prefecture":"大阪府","store_url":"https://www.livemax.net/livemax-store-list/59681/"},
+  {"company":"リブマックス","store_name":"博多店","prefecture":"福岡県","store_url":"https://www.livemax.net/livemax-store-list/59723/"},
+
+  {"company":"アエラスグループ","store_name":"吉祥寺店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-kichijoji/"},
+  {"company":"アエラスグループ","store_name":"下北沢店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-shimokitazawa/"},
+  {"company":"アエラスグループ","store_name":"中野店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-nakano/"},
+  {"company":"アエラスグループ","store_name":"国分寺店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-kokubunji/"},
+  {"company":"アエラスグループ","store_name":"巣鴨店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-sugamo/"},
+  {"company":"アエラスグループ","store_name":"荻窪店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-ogikubo/"},
+  {"company":"アエラスグループ","store_name":"川崎店","prefecture":"神奈川県","store_url":"https://www.aeras-group.jp/shop/aeras-kawasaki/"},
+  {"company":"アエラスグループ","store_name":"川口店","prefecture":"埼玉県","store_url":"https://www.aeras-group.jp/shop/aeras-kawaguchi/"},
+  {"company":"アエラスグループ","store_name":"船橋店","prefecture":"千葉県","store_url":"https://www.aeras-group.jp/shop/aeras-funabashi/"},
+  {"company":"アエラスグループ","store_name":"柏店","prefecture":"千葉県","store_url":"https://www.aeras-group.jp/shop/aeras-kashiwa/"},
+
+  {"company":"タウンハウジング","store_name":"町田店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/machida"},
+  {"company":"タウンハウジング","store_name":"八王子店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/hachioji"},
+  {"company":"タウンハウジング","store_name":"横浜店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/yokohama"},
+  {"company":"タウンハウジング","store_name":"川崎店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/kawasaki"},
+  {"company":"タウンハウジング","store_name":"浦和店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/urawa"},
+  {"company":"タウンハウジング","store_name":"船橋店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/funabashi"},
+  {"company":"タウンハウジング","store_name":"千葉店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/chiba"},
+  {"company":"タウンハウジング","store_name":"柏店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/kashiwa"},
+  {"company":"タウンハウジング","store_name":"松戸店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/matsudo"},
+
+  {"company":"ピタットハウス","store_name":"渋谷販売センター","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/shibuya-hc.html"},
+  {"company":"ピタットハウス","store_name":"渋谷店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/shibuya.html"},
+  {"company":"ピタットハウス","store_name":"渋谷北店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/shibuyakita.html"},
+  {"company":"ピタットハウス","store_name":"渋谷東口店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/shibuyahigashiguchi.html"},
+  {"company":"ピタットハウス","store_name":"インターナショナルTOKYO","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/itokyo.html"},
+  {"company":"ピタットハウス","store_name":"池袋店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/000001110168.html"},
+  {"company":"ピタットハウス","store_name":"横浜店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/yokohama.html"},
+  {"company":"ピタットハウス","store_name":"川崎西口店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/kawasakinishiguchi.html"},
+  {"company":"ピタットハウス","store_name":"川崎駅前店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/kawasakiekimae.html"},
+  {"company":"ピタットハウス","store_name":"山手本牧店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/yamatehonmoku.html"},
+
+  {"company":"ハウスコム","store_name":"八王子駅前店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/hachioji-ekimae-hc/"},
+  {"company":"ハウスコム","store_name":"横浜店","prefecture":"神奈川県","store_url":"https://www.housecom.jp/shop/yokohama-hc/"},
+  {"company":"ハウスコム","store_name":"川崎駅前店","prefecture":"神奈川県","store_url":"https://www.housecom.jp/shop/kawasaki-ekimae-hc/"},
+  {"company":"ハウスコム","store_name":"ハウスコムコミュニケーションズ名古屋営業所","prefecture":"愛知県","store_url":"https://www.housecom.jp/shop/hcc-nagoya-hc/"},
+
+  {"company":"アパマンショップ","store_name":"中野店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13047401/"},
+  {"company":"アパマンショップ","store_name":"大阪駅前店","prefecture":"大阪府","store_url":"https://www.apamanshop.com/shop/27009223/"},
+  {"company":"アパマンショップ","store_name":"なんば店","prefecture":"大阪府","store_url":"https://www.apamanshop.com/shop/27006403/"},
+  {"company":"アパマンショップ","store_name":"梅田東店","prefecture":"大阪府","store_url":"https://www.apamanshop.com/shop/27006408/"},
+
+  {"company":"ルームピア(ROOMPIA)","store_name":"新宿東口店","prefecture":"東京都","store_url":"https://www.roompia.jp/public?page=shops_shinjukuhigashiguchi"},
+  {"company":"ルームピア(ROOMPIA)","store_name":"上野御徒町店","prefecture":"東京都","store_url":"https://www.roompia.jp/public?page=shops_ueno"},
+  {"company":"ルームピア(ROOMPIA)","store_name":"法人課","prefecture":"東京都","store_url":"https://www.roompia.jp/public?page=shops_corporation","note":"法人課"},
+  {"company":"ルームピア(ROOMPIA)","store_name":"オンライン店","prefecture":"東京都","store_url":"https://www.roompia.jp/public?page=shops_online","note":"オンライン店"},
+
+  {"company":"エイブル","store_name":"高田馬場店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000015/"},
+  {"company":"エイブル","store_name":"高円寺店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000018/"},
+  {"company":"エイブル","store_name":"阿佐ヶ谷店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000068/"},
+  {"company":"エイブル","store_name":"国際センター(高田馬場)","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000350/"},
+  {"company":"エイブル","store_name":"蕨店","prefecture":"埼玉県","store_url":"https://shop.able.co.jp/000000409/"},
+  {"company":"エイブル","store_name":"大宮東口店","prefecture":"埼玉県","store_url":"https://shop.able.co.jp/000000402/"},
+
+  {"company":"ミニミニ","store_name":"高田馬場店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10013/takadanobaba/"},
+  {"company":"ミニミニ","store_name":"中野店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10013/nakano/"},
+  {"company":"ミニミニ","store_name":"立川北口店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10013/tachikawakitaguchi/"},
+  {"company":"ミニミニ","store_name":"蒲田店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10014/kamata/"},
+  {"company":"ミニミニ","store_name":"池袋西口店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10011/ikebukuronishiguchi/"},
+  {"company":"ミニミニ","store_name":"千葉店","prefecture":"千葉県","store_url":"https://minimini.jp/shop/10012/chiba/"},
+  {"company":"ミニミニ","store_name":"船橋店","prefecture":"千葉県","store_url":"https://minimini.jp/shop/10012/funabashi/"},
+  {"company":"ミニミニ","store_name":"横浜西口店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/yokohamanishiguchi/"},
+
+  {"company":"アエラスグループ","store_name":"登戸店","prefecture":"神奈川県","store_url":"https://www.aeras-group.jp/shop/aeras-noborito/"},
+  {"company":"アエラスグループ","store_name":"大宮店","prefecture":"埼玉県","store_url":"https://www.aeras-group.jp/shop/aeras-omiya/"},
+  {"company":"アエラスグループ","store_name":"南浦和店","prefecture":"埼玉県","store_url":"https://www.aeras-group.jp/shop/aeras-minamiurawa/"},
+
+  {"company":"タウンハウジング","store_name":"新宿店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/shinjuku"},
+  {"company":"タウンハウジング","store_name":"下北沢店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/shimo-kitazawa"},
+  {"company":"タウンハウジング","store_name":"中野店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/nakano"},
+  {"company":"タウンハウジング","store_name":"大宮西口店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/omiya-nishiguchi"},
+  {"company":"タウンハウジング","store_name":"大宮東口店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/omiya-higashiguchi"},
+
+  {"company":"ピタットハウス","store_name":"立川店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/tachikawa.html"},
+  {"company":"ピタットハウス","store_name":"新宿曙橋店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/hongo.html"},
+  {"company":"ピタットハウス","store_name":"中野店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/nakano.html"},
+  {"company":"ピタットハウス","store_name":"中野南口店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/nakanominamiguchi.html"},
+  {"company":"ピタットハウス","store_name":"大宮店","prefecture":"埼玉県","store_url":"https://www.pitat.com/shopDetail/omiya.html"},
+  {"company":"ピタットハウス","store_name":"浦和東口店","prefecture":"埼玉県","store_url":"https://www.pitat.com/shopDetail/urawahigashiguchi.html"},
+  {"company":"ピタットハウス","store_name":"千葉店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/chiba.html"},
+  {"company":"ピタットハウス","store_name":"千葉中央店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/chibachuo.html"},
+  {"company":"ピタットハウス","store_name":"柏店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/kashiwa.html"},
+
+  {"company":"ハウスコム","store_name":"立川店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/tachikawa-hc/"},
+  {"company":"ハウスコム","store_name":"吉祥寺店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/kichijoji-hc/"},
+  {"company":"ハウスコム","store_name":"立川南口店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/tachikawa-minamiguchi-hc/"},
+  {"company":"ハウスコム","store_name":"新宿店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/shinjuku-hc/"},
+  {"company":"ハウスコム","store_name":"大宮店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/omiya-hc/"},
+  {"company":"ハウスコム","store_name":"千葉店","prefecture":"千葉県","store_url":"https://www.housecom.jp/shop/chiba-hc/"},
+
+  {"company":"アパマンショップ","store_name":"渋谷道玄坂店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13062320/"},
+  {"company":"アパマンショップ","store_name":"五反田店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13047404/"},
+  {"company":"アパマンショップ","store_name":"横浜西口店","prefecture":"神奈川県","store_url":"https://www.apamanshop.com/shop/14054808/"},
+  {"company":"アパマンショップ","store_name":"栄店","prefecture":"愛知県","store_url":"https://www.apamanshop.com/shop/23004202/"},
+  {"company":"アパマンショップ","store_name":"名古屋駅東口店","prefecture":"愛知県","store_url":"https://www.apamanshop.com/shop/23004311/"},
+  {"company":"アパマンショップ","store_name":"博多駅前店","prefecture":"福岡県","store_url":"https://www.apamanshop.com/shop/40041121/"},
+  {"company":"アパマンショップ","store_name":"新宿東口店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13041106/"},
+  {"company":"アパマンショップ","store_name":"新宿東南口店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13062327/"},
+
+  {"company":"リブマックス","store_name":"上野店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59749/"},
+
+  {"company":"ミニミニ","store_name":"八王子店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10013/hachioji/"},
+  {"company":"ミニミニ","store_name":"町田店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10016/machida/"},
+  {"company":"ミニミニ","store_name":"川越店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/kawagoe/"},
+
+  {"company":"ピタットハウス","store_name":"浅草橋店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/asakusabashi.html"},
+  {"company":"ピタットハウス","store_name":"天王寺店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/tennouji.html"},
+  {"company":"ピタットハウス","store_name":"上本町店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/uehonmachi.html"},
+
+  {"company":"ハウスコム","store_name":"藤沢店","prefecture":"神奈川県","store_url":"https://www.housecom.jp/shop/fujisawa-hc/"},
+
+  {"company":"CLCコーポレーション","store_name":"浦安店","prefecture":"千葉県","store_url":"https://clcnetwork.co.jp/shop_urayasu.html"},
+
+  {"company":"アエラスグループ","store_name":"八王子店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-hachioji/"},
+  {"company":"アエラスグループ","store_name":"立川店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-tachikawa/"},
+  {"company":"アエラスグループ","store_name":"橋本店","prefecture":"神奈川県","store_url":"https://www.aeras-group.jp/shop/aeras-hashimoto/"},
+
+  {"company":"タウンハウジング","store_name":"川口店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/kawaguchi"},
+  {"company":"タウンハウジング","store_name":"川越店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/kawagoe"},
+  {"company":"タウンハウジング","store_name":"草加店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/soka"},
+  {"company":"タウンハウジング","store_name":"本厚木店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/hon-atsugi"},
+  {"company":"タウンハウジング","store_name":"登戸店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/noborito"},
+  {"company":"タウンハウジング","store_name":"橋本店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/hashimoto"},
+
+  {"company":"ミニミニ","store_name":"赤羽店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10011/akabane/"},
+  {"company":"ミニミニ","store_name":"大井町店","prefecture":"東京都","store_url":"https://minimini.jp/shop/10014/oimachi/"},
+
+  {"company":"アパマンショップ","store_name":"上野店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13041142/"},
+
+  {"company":"ピタットハウス","store_name":"上大岡店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/kamiooka.html"},
+  {"company":"ピタットハウス","store_name":"横浜販売センター","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/yokohama-hc.html"},
+  {"company":"ピタットハウス","store_name":"横浜ハマボールイアス店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/yokohamahi.html"},
+
+  {"company":"ハウスコム","store_name":"金山店","prefecture":"愛知県","store_url":"https://www.housecom.jp/shop/kanayama-hc/"},
+  {"company":"ハウスコム","store_name":"名古屋店","prefecture":"愛知県","store_url":"https://www.housecom.jp/shop/nagoya-hc/"},
+
+  {"company":"リブマックス","store_name":"川崎店","prefecture":"神奈川県","store_url":"https://www.livemax.net/livemax-store-list/59745/"},
+  {"company":"リブマックス","store_name":"名古屋新幹線口店","prefecture":"愛知県","store_url":"https://www.livemax.net/livemax-store-list/59705/"},
+
+  {"company":"エイブル","store_name":"五反田店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000024/"},
+  {"company":"エイブル","store_name":"目黒店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000075/"},
+  {"company":"エイブル","store_name":"中目黒店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000355/"},
+
+  {"company":"アエラスグループ","store_name":"学芸大学店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-gakugeidaigaku/"},
+
+  {"company":"タウンハウジング","store_name":"春日部店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/kasukabe"},
+  {"company":"タウンハウジング","store_name":"新越谷店","prefecture":"埼玉県","store_url":"https://www.townhousing.co.jp/store/shin-koshigaya"},
+  {"company":"タウンハウジング","store_name":"戸塚店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/totsuka"},
+
+  {"company":"ミニミニ","store_name":"大和店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/yamato/"},
+  {"company":"ミニミニ","store_name":"FC八尾店","prefecture":"大阪府","store_url":"https://minimini.jp/shop/50170044/fc-yao/","note":"FC店"},
+  {"company":"ミニミニ","store_name":"FC千里中央店","prefecture":"大阪府","store_url":"https://minimini.jp/shop/50130013/fc-senrichuominami/","note":"FC店"},
+
+  {"company":"アパマンショップ","store_name":"池袋駅前公園店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13042901/"},
+
+  {"company":"ピタットハウス","store_name":"京橋北口店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/kyoubashikitaguchi.html"},
+  {"company":"ピタットハウス","store_name":"本町店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/honmachi.html"},
+
+  {"company":"ハウスコム","store_name":"越谷店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/koshigaya-hc/"},
+  {"company":"ハウスコム","store_name":"松戸店","prefecture":"千葉県","store_url":"https://www.housecom.jp/shop/matsudo-hc/"},
+  {"company":"ハウスコム","store_name":"五反田店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/gotanda-hc/"},
+  {"company":"ハウスコム","store_name":"蒲田店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/kamata-hc/"},
+  {"company":"ハウスコム","store_name":"北千住店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/kitasenju-hc/"},
+  {"company":"ハウスコム","store_name":"津田沼店","prefecture":"千葉県","store_url":"https://www.housecom.jp/shop/tsudanuma-hc/"},
+
+  {"company":"エイブル","store_name":"葛西店","prefecture":"東京都","store_url":"https://shop.able.co.jp/000000071/"},
+
+  {"company":"タウンハウジング","store_name":"蒲田店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/kamata"},
+  {"company":"タウンハウジング","store_name":"高円寺店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/koenji"},
+  {"company":"タウンハウジング","store_name":"自由が丘店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/jiyugaoka"},
+
+  {"company":"ピタットハウス","store_name":"高田馬場店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/takadanobaba.html"},
+
+  {"company":"アパマンショップ","store_name":"横浜東口店","prefecture":"神奈川県","store_url":"https://www.apamanshop.com/shop/14053901/"},
+
+  {"company":"リブマックス","store_name":"五反田店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59753/"},
+
+  {"company":"アエラスグループ","store_name":"ソレイユ高田馬場店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/soleil-takadanobaba/","note":"ソレイユ業態"},
+  {"company":"アエラスグループ","store_name":"ソレイユ池袋店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/soleil-ikebukuro/","note":"ソレイユ業態"},
+
+  {"company":"エイブル","store_name":"大阪国際センター","prefecture":"大阪府","store_url":"https://shop.able.co.jp/000000836/"},
+
+  {"company":"ピタットハウス","store_name":"池袋西口店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/ikebukuronishi.html"},
+  {"company":"ピタットハウス","store_name":"西葛西販売センター","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/nishikasai-hc.html"},
+
+  {"company":"ハウスコム","store_name":"上大岡店","prefecture":"神奈川県","store_url":"https://www.housecom.jp/shop/kamiooka-hc/"},
+  {"company":"ハウスコム","store_name":"浦和店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/urawa-hc/"},
+  {"company":"ハウスコム","store_name":"川口店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/kawaguchi-hc/"},
+  {"company":"ハウスコム","store_name":"春日部店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/kasukabe-hc/"},
+  {"company":"ハウスコム","store_name":"草加店","prefecture":"埼玉県","store_url":"https://www.housecom.jp/shop/soka-hc/"},
+  {"company":"ハウスコム","store_name":"ハウスコムコミュニケーションズ船橋営業所","prefecture":"千葉県","store_url":"https://www.housecom.jp/shop/hcc-funabashi-hc/"},
+
+  {"company":"アパマンショップ","store_name":"錦糸町店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13064901/"},
+
+  {"company":"アエラスグループ","store_name":"練馬店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-nerima/"},
+  {"company":"アエラスグループ","store_name":"駒込店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-komagome/"},
+  {"company":"アエラスグループ","store_name":"石神井公園店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-shakujiikoen/"},
+  {"company":"アエラスグループ","store_name":"ひばりヶ丘店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/aeras-hibarigaoka/"},
+  {"company":"アエラスグループ","store_name":"グランデ新宿店","prefecture":"東京都","store_url":"https://www.aeras-group.jp/shop/grande-shinjuku/","note":"グランデ業態"},
+
+  {"company":"タウンハウジング","store_name":"西船橋店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/nishi-funabashi"},
+  {"company":"タウンハウジング","store_name":"本八幡店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/moto-yawata"},
+  {"company":"タウンハウジング","store_name":"市川店","prefecture":"千葉県","store_url":"https://www.townhousing.co.jp/store/ichikawa"},
+
+  {"company":"リブマックス","store_name":"関内駅前店","prefecture":"神奈川県","store_url":"https://www.livemax.net/livemax-store-list/59664/"},
+
+  {"company":"ピタットハウス","store_name":"江坂店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/esaka.html"},
+  {"company":"ピタットハウス","store_name":"大阪駅前第3ビル店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/osakaekimaedai3biru.html"},
+  {"company":"ピタットハウス","store_name":"大正店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/taisho.html"},
+  {"company":"ピタットハウス","store_name":"JR新大阪東口店","prefecture":"大阪府","store_url":"https://www.pitat.com/shopDetail/jrshinosakahigashiguchi.html"},
+
+  {"company":"ミニミニ","store_name":"関内店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/kannai/"},
+  {"company":"ミニミニ","store_name":"上大岡店","prefecture":"神奈川県","store_url":"https://minimini.jp/shop/10016/kamiooka/"},
+  {"company":"ミニミニ","store_name":"名古屋店","prefecture":"愛知県","store_url":"https://minimini.jp/shop/10010/nagoya/"},
+  {"company":"ミニミニ","store_name":"浦和店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/urawa/"},
+  {"company":"ミニミニ","store_name":"所沢店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/tokorozawa/"},
+  {"company":"ミニミニ","store_name":"大宮西口店","prefecture":"埼玉県","store_url":"https://minimini.jp/shop/10011/omiyanishiguchi/"},
+
+  {"company":"CLCコーポレーション","store_name":"浅草店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_asakusa.html"},
+  {"company":"CLCコーポレーション","store_name":"綾瀬店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_ayase.html"},
+  {"company":"CLCコーポレーション","store_name":"池袋店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_ikebukuro.html"},
+  {"company":"CLCコーポレーション","store_name":"西葛西店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_nishikasai.html"},
+  {"company":"CLCコーポレーション","store_name":"川崎店","prefecture":"神奈川県","store_url":"https://clcnetwork.co.jp/shop_kawasaki.html"},
+  {"company":"CLCコーポレーション","store_name":"横浜店","prefecture":"神奈川県","store_url":"https://clcnetwork.co.jp/shop_yokohama.html"},
+  {"company":"CLCコーポレーション","store_name":"西船橋店","prefecture":"千葉県","store_url":"https://clcnetwork.co.jp/shop_nishifuna.html"},
+
+  {"company":"エイブル","store_name":"栄店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000202/"},
+  {"company":"エイブル","store_name":"金山店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000212/"},
+  {"company":"エイブル","store_name":"名古屋駅本店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000233/"},
+  {"company":"エイブル","store_name":"名古屋国際センター","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000244/"},
+  {"company":"エイブル","store_name":"広小路伏見店","prefecture":"愛知県","store_url":"https://shop.able.co.jp/000000239/"},
+
+  {"company":"アパマンショップ","store_name":"浦和西口店","prefecture":"埼玉県","store_url":"https://www.apamanshop.com/shop/11002436/"},
+  {"company":"アパマンショップ","store_name":"東大宮店","prefecture":"埼玉県","store_url":"https://www.apamanshop.com/shop/11002406/"},
+  {"company":"アパマンショップ","store_name":"千葉中央店","prefecture":"千葉県","store_url":"https://www.apamanshop.com/shop/12041196/"},
+
+  {"company":"ピタットハウス","store_name":"上野昭和通り店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/uenoshowadori.html"},
+  {"company":"ピタットハウス","store_name":"門前仲町店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/monzennakacho.html"},
+  {"company":"ピタットハウス","store_name":"錦糸町店","prefecture":"東京都","store_url":"https://www.pitat.com/shopDetail/kinshichominamiguchi.html"},
+
+  {"company":"タウンハウジング","store_name":"武蔵小杉店","prefecture":"神奈川県","store_url":"https://www.townhousing.co.jp/store/musashi-kosugi"},
+  {"company":"タウンハウジング","store_name":"恵比寿店","prefecture":"東京都","store_url":"https://www.townhousing.co.jp/store/ebisu"},
+
+  {"company":"CLCコーポレーション","store_name":"北千住店","prefecture":"東京都","store_url":"https://clcnetwork.co.jp/shop_senjyu.html"},
+
+  {"company":"アパマンショップ","store_name":"天神西通り店","prefecture":"福岡県","store_url":"https://www.apamanshop.com/shop/40049410/"},
+  {"company":"アパマンショップ","store_name":"西新店","prefecture":"福岡県","store_url":"https://www.apamanshop.com/shop/40055702/"},
+  {"company":"アパマンショップ","store_name":"国分寺店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13062310/"},
+  {"company":"アパマンショップ","store_name":"国分寺北口店","prefecture":"東京都","store_url":"https://www.apamanshop.com/shop/13041118/"},
+
+  {"company":"ピタットハウス","store_name":"船橋北口店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/funabashikitaguchi.html"},
+  {"company":"ピタットハウス","store_name":"船橋習志野店","prefecture":"千葉県","store_url":"https://www.pitat.com/shopDetail/funabashinarashino.html"},
+  {"company":"ピタットハウス","store_name":"横浜西口店","prefecture":"神奈川県","store_url":"https://www.pitat.com/shopDetail/yokohamanishiguchi.html"},
+
+  {"company":"ハウスコム","store_name":"三軒茶屋店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/sangenjaya-hc/"},
+  {"company":"ハウスコム","store_name":"中野店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/nakano-hc/"},
+
+  {"company":"アエラスグループ","store_name":"川越店","prefecture":"埼玉県","store_url":"https://www.aeras-group.jp/shop/aeras-kawagoe/"},
+
+  {"company":"リブマックス","store_name":"千葉店","prefecture":"千葉県","store_url":"https://www.livemax.net/livemax-store-list/59657/"},
+  {"company":"リブマックス","store_name":"新都心店","prefecture":"埼玉県","store_url":"https://www.livemax.net/livemax-store-list/59646/"},
+  {"company":"リブマックス","store_name":"日本橋茅場町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/59755/"},
+  {"company":"リブマックス","store_name":"FC浜松町店","prefecture":"東京都","store_url":"https://www.livemax.net/livemax-store-list/hamamatsucho/","note":"FC店"},
+
+  {"company":"ハウスコム","store_name":"王子店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/oji-hc/"},
+  {"company":"ハウスコム","store_name":"池袋西口店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/ikebukuro-hc/"},
+  {"company":"ハウスコム","store_name":"赤羽店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/akabane-hc/"},
+  {"company":"ハウスコム","store_name":"高田馬場店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/takadanobaba-hc/"},
+  {"company":"ハウスコム","store_name":"渋谷店","prefecture":"東京都","store_url":"https://www.housecom.jp/shop/shibuya-hc/"},
+
+  {"company":"エイブル","store_name":"大橋店","prefecture":"福岡県","store_url":"https://shop.able.co.jp/000000952/"},
+  {"company":"エイブル","store_name":"南福岡店","prefecture":"福岡県","store_url":"https://shop.able.co.jp/000000955/"},
+
+  {"company":"アエラスグループ","store_name":"津田沼店","prefecture":"千葉県","store_url":"https://www.aeras-group.jp/shop/aeras-tsudanuma/"},
+
+  {"company":"ミニミニ","store_name":"西船橋店","prefecture":"千葉県","store_url":"https://minimini.jp/shop/10012/nishifunabashi/"}
+]

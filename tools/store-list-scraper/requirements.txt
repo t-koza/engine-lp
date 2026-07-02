@@ -1,0 +1,6 @@
+requests>=2.31
+beautifulsoup4>=4.12
+lxml>=5.0
+openpyxl>=3.1
+# フォーム送信(submit_forms.py)用。開放ネット環境で `python -m playwright install chromium` も実行。
+playwright>=1.40
